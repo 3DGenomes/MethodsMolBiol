@@ -21,7 +21,7 @@ This tutorial is about the use of TADbit, a software designed and developed to m
  - 3D - Generate populations of model structures which reproduce the Hi-C interaction matrices
  - 4D - Compare samples at different time points
 
-## Notebooks
+## Material
 
 | Core pipeline               | Annex                 |
 |-------------------------|------------|
