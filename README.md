@@ -7,7 +7,6 @@
 - [Material](#material)
 - [Target Audience](#target-audience)
   - [Technical pre-requisites](#technical-pre-requisites)
-    - [TADbit API](#tadbit-api)
 
 ## Overview
 
